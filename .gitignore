@@ -1,0 +1,4 @@
+target/*
+*pdf
+.partie.xml
+.configuration.xml
